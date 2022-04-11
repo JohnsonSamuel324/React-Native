@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
+    "expo": "^44.0.6",
+    "metro": "^0.70.1",
+    "react-redux": "^7.2.8",
+    "tailwind-react-native-classnames": "^1.5.1"
+  }
+}
